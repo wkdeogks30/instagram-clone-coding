@@ -1,0 +1,134 @@
+/* Header */
+
+.header {
+    margin-top: 3rem;   
+    border-bottom: 1px solid #ECECEC;
+}
+#logo {
+    position: absolute;
+    left: 16rem;
+    top: 0.5rem;
+}
+
+.menu {
+    position: absolute;
+    top: 0.8rem;
+    right: 16rem;
+}
+
+.menu i {
+    margin-left: 1rem;
+}
+
+.Profile {
+    position: absolute;
+    left: 12rem;
+}
+
+/* Main */
+.main {
+    position: relative;
+    top : 7rem;
+    left: 18rem;
+}
+
+#user {
+    border-radius: 100%;
+    width : 7%;
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+    margin-bottom: 0.2rem;
+    display : inline-block;
+}
+
+#user-name {
+    position: absolute;
+    top: 0.2rem;
+    left: 4rem;
+    display: inline-block;
+}
+.main-top {
+    border-radius: 10px;
+    width: 37.975rem;
+    height: 6rem;
+    position: absolute;
+    top: -5.5rem;
+    border: 1px solid #ECECEC;
+}
+
+#icon {
+    position: relative;
+    top: 1.1rem;
+    left: 0.5rem;
+}
+
+#icon img {
+    margin-left: 1rem;
+}
+
+#icon p {
+    font-size: 5px;
+    position: absolute;
+    top: 3rem;
+    display: inline-block;
+}
+
+#i1 {
+    left: 1rem;
+}
+#i2 {
+    left: 5.5rem;
+}
+#i3 {
+    left: 10rem;
+}
+.main-center {
+    border-radius: 10px;
+    display: inline-block;
+    position: relative;
+    top: 2rem;
+    width: 37.975rem;
+    border: 1px solid #ECECEC;
+}
+
+.main-center div {
+        position: relative;
+}
+
+/* Left Side */
+
+#Mine {
+    display: inline-block;
+    position: absolute;
+    top: 6rem;
+    right: 32rem;
+}
+
+#Mine p {
+    display: inline;
+    margin: 0;
+}
+
+#idcode {
+    position: absolute;
+    top: 1rem;
+    color: #111;
+    left: 4.5rem;
+}
+
+#name {
+    font-size: 5px;
+    position: absolute;
+    top: 2.5rem;
+    color: #8E8E8E;
+    left: 4.5rem;
+    width: 10rem;
+}
+
+#suggest {
+    display: inline-block;
+}
+
+#suggest p {
+    display: absolute;
+}
